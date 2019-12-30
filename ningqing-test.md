@@ -20,3 +20,5 @@ __政治面貌：__*党员*
 
 
 发现问题：GitHub Desktop不支持提交签名。
+
+通过GitHub Desktop尝试仍旧失败，通过页面方式
