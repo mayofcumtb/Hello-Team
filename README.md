@@ -1,4 +1,1 @@
-# Hello-Team
-BUU Coperation Repository 
-
-Hello Team From Mayan
+# 联合彩虹团队考试测评系统开发
